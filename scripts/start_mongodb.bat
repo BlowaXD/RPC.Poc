@@ -1,0 +1,1 @@
+docker run --name wingsemu-nosql -e MONGO_INITDB_ROOT_USERNAME=root -e MONGO_INITDB_ROOT_PASSWORD=root -d mongo:4
